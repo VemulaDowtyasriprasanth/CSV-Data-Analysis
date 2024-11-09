@@ -8,6 +8,7 @@ The CSV Data Analysis Project is a Python application designed for interactive a
 ## Architecture
 
 The project’s architecture includes key components that facilitate automated data handling and analysis. At its core, a LangChain agent manages task orchestration, handling user prompts, code generation, and result verification.
+![Architecture Diagram](architecture.png)
 
 ### Key Components
 
